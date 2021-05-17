@@ -1,0 +1,25 @@
+.rectangle {
+  height: 1000px;
+  width: 250px;
+  background-color: rgb(133, 47, 47);
+}
+#menu {
+  padding-top: 200px;
+  color: white;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  list-style-type: none;
+}
+
+.home {
+  margin: 10px 0px 10px 30px;
+}
+
+.about {
+  margin: 10px 0px 10px 30px;
+}
+
+.contact {
+  margin: 10px 0px 10px 30px;
+}
