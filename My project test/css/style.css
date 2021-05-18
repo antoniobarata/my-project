@@ -1,4 +1,9 @@
+body {
+  background: black;
+}
+
 .rectangle {
+  float: left;
   height: 1000px;
   width: 250px;
   background-color: rgb(133, 47, 47);
@@ -11,15 +16,42 @@
   font-weight: bold;
   list-style-type: none;
 }
-
+.falcao {
+  margin-top: 10em;
+  display: flex;
+  float: right;
+  height: 50%;
+  width: 50%;
+}
 .home {
-  margin: 10px 0px 10px 30px;
+  margin: 30px 0px 10px 30px;
 }
 
 .about {
-  margin: 10px 0px 10px 30px;
+  margin: 30px 0px 5px 30px;
 }
 
 .contact {
-  margin: 10px 0px 10px 30px;
+  margin: 30px 0px 10px 30px;
+}
+.gallery {
+  margin: 30px 0px 10px 30px;
+}
+
+.instagram {
+  margin-top: 450px;
+  padding-left: 15%;
+  height: 3%;
+}
+
+.facebook {
+  margin-top: 450px;
+  padding-left: 10%;
+  height: 3%;
+}
+
+.whatsapp {
+  margin-top: 450px;
+  padding-left: 10%;
+  height: 3%;
 }
